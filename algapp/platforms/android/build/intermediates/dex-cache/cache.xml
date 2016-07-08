@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/home/schirrel/github/algapp/algapp/platforms/android/build/intermediates/exploded-aar/android/CordovaLib/unspecified/release/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="d935b94462bb3701e85605941fd3a2ee17993ef7">
+        <dex dex="/home/schirrel/github/algapp/algapp/platforms/android/build/intermediates/pre-dexed/release/CordovaLib-unspecified-release_740b55a8ed3a127eaeeea860e82995375f322339.jar" />
+    </item>
+    <item
+        jar="/home/schirrel/github/algapp/algapp/platforms/android/build/intermediates/exploded-aar/android/CordovaLib/unspecified/debug/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="7530fd061700cdfbffcd24483792dbd32c594d3b">
+        <dex dex="/home/schirrel/github/algapp/algapp/platforms/android/build/intermediates/pre-dexed/debug/CordovaLib-unspecified-debug_c3fc06a78e9b45789d0f40947474520769466b5a.jar" />
+    </item>
+
+</items>
