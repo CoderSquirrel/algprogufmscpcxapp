@@ -1,0 +1,12 @@
+<ion-view view-title="Alg&Prog I - CPCX">
+  <ion-content class="padding">
+    <ion-list>
+ <ion-item ng-repeat="trab in trabalhos" >
+      <a class="item" ng-click="myclick(trab.link)">
+              {{trab.titulo}} 
+            </a>
+      </ion-item>
+
+</ion-list>
+  </ion-content>
+</ion-view>
